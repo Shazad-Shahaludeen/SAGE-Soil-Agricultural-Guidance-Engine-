@@ -114,7 +114,7 @@ main hardware guy.
 - improved dashboard
 - ph / ec / npk modules
 
-### planned
+### planned for future 
 
 - agromate smart farming platform
 - irrigation automation
@@ -123,7 +123,38 @@ main hardware guy.
 
 this project is still under active development and there's a lot more planned for the future. if you've got ideas, suggestions or just wanna build something cool together, feel free to open an issue or reach out.
 
+## overall progress
+
+- [x] agropen prototype
+- [x] sensor integration
+- [x] basic sage hub dashboard
+- [ ] mobile application
+- [ ] ai recommendations
+- [ ] offline llm
+- [ ] ph sensor
+- [ ] ec sensor
+- [ ] npk sensing
+- [ ] agromate automation
+
 
 also please tell me if this repo isn't done properly...... im doing this based of tutorials on youtube 
 
-feel free to contact me , im open to feedback :)
+feel free to contact me or rayan , we're open to ideas, suggestions and feedback :)
+
+
+## license
+
+this project is licensed under the apache 2.0 license.## license
+
+this project is licensed under the apache 2.0 license.
+
+
+## contacts
+
+shazad shahaludeen :
+-> discord username : shazad20710
+-> gmail : shazadshahaludeen@gmail.com
+
+feel free to open an issue on github as well
+
+## made with caffine , curiosty , and way toooo many sleepless nights in india 
