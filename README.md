@@ -96,7 +96,7 @@ main hardware guy.
 - prototype assembly
 - testing
 
-
+shout out to ajesh ikka as well form xtronlabs tkmce , he helped us with 3d printed and helped us every time we screwed up 
 
 ## project status
 
