@@ -97,13 +97,29 @@ main hardware guy.
 
 ## project status
 
-🚧 active development
+ active development
 
-agropen is currently the only fully working prototype.
+### working
 
-everything else is actively being developed.
+- agropen (portable soil scanner)
+- sensor firmware
+- usb communication
+- basic sage hub dashboard
 
+### in development
 
+- ai recommendations
+- mobile application
+- offline llm
+- improved dashboard
+- ph / ec / npk modules
+
+### planned
+
+- agromate smart farming platform
+- irrigation automation
+- weather integration
+- crop health monitoring
 
 this project is still under active development and there's a lot more planned for the future. if you've got ideas, suggestions or just wanna build something cool together, feel free to open an issue or reach out.
 
