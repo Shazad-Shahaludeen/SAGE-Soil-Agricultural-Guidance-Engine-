@@ -1,4 +1,4 @@
-### sage (soil & agricultural guidance engine)
+### SAGE (SOIL & AGRICULTURAL GUIDANCE ENGINE)
 
 <img width="536" height="309" alt="Screenshot 2026-07-14 184040" src="https://github.com/user-attachments/assets/4fedfd9a-1a05-4c1f-afd4-e32c66492a8d" />
 
