@@ -1,5 +1,8 @@
 ### sage (soil & agricultural guidance engine)
 
+<img width="536" height="309" alt="Screenshot 2026-07-14 184040" src="https://github.com/user-attachments/assets/4fedfd9a-1a05-4c1f-afd4-e32c66492a8d" />
+
+
 portable soil analysis • ai-powered recommendations • open source precision agriculture
 
 sage started with one simple question.
